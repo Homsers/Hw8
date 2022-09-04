@@ -1,0 +1,15 @@
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\tsk2.csproj.AssemblyReference.cache
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\tsk2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\tsk2.AssemblyInfoInputs.cache
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\tsk2.AssemblyInfo.cs
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\tsk2.csproj.CoreCompileInputs.cache
+D:\Dotnet2\dotnet22\hw8\tsk2\bin\Debug\net6.0\tsk2.exe
+D:\Dotnet2\dotnet22\hw8\tsk2\bin\Debug\net6.0\tsk2.deps.json
+D:\Dotnet2\dotnet22\hw8\tsk2\bin\Debug\net6.0\tsk2.runtimeconfig.json
+D:\Dotnet2\dotnet22\hw8\tsk2\bin\Debug\net6.0\tsk2.dll
+D:\Dotnet2\dotnet22\hw8\tsk2\bin\Debug\net6.0\tsk2.pdb
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\tsk2.dll
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\refint\tsk2.dll
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\tsk2.pdb
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\tsk2.genruntimeconfig.cache
+D:\Dotnet2\dotnet22\hw8\tsk2\obj\Debug\net6.0\ref\tsk2.dll
